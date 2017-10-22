@@ -1,0 +1,14 @@
+{
+  "name": "mn-packagename",
+  "version": "1.0.0",
+  "description": "mn-description",
+  "main": "index.js",
+  "scripts": {
+    "test": "mn-testcommand"
+  },
+  "author": "Mattias Nilsson",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.11.0"
+  }
+}
